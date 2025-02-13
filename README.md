@@ -24,9 +24,15 @@ https://docs.google.com/presentation/d/1FCz0XQruXElWC9H1_janz6jSncX3aw8s7TIySwCz
 ## Presentation Outline
 ### Summary
 Our intended audience for this would prospective car buyers, car manufactueres, car insurance agencies, and safety agencies. Any party with a vested interest in finding common factors between safety ratings and vehicle crash fatalities. The quested we asked is how much weight do these tests have on the chances of a crash being fatal? While many factors contribute the crash's chance of fatality, this one could be overlooked or oversimplified. Would it be more impactful than most might think, or does the nature of nearly all cars on the road already having the max of 5 stars in the safety ratings muddle the true weight of this variable? The latter is certainly true, having the majority of all cars being top rated means that all crashes are from high-rated cars. Although the data we used also has the star ratings for each part of the car, and a higher rating for 'rollover safety' led to drastically fewer fatalities.
+
 Our key points will the unbalanced weight of the safety ratings being an integer 0-5, with the lowest seen in real data being 4. That even with this, the more specific ratings can help break up that imbalance to show the importance of rollover ratings. Concluding that just fatalities and overall ratings are not enough to make predictions.
+
 The first visualization will be used to show a lack of meaningful correlation between fatalities and overall stars.
+
 The next two shows the fatalities by model, revealing the most fatal models being the most popular, and even after trimming them, still are a matter of road saturation.
+
 The next switches to fatalities by make, showing that overall brands are more even than individual models.
+
 Following is the visualization to show the difference in fatalities by star ratings, for overall stars and all the other categories. This demonstrates the rollover impact.
+
 Lastly, a graph to show the increase in fatalities to stress the importance to try and analyze and predict to solve this problem.
