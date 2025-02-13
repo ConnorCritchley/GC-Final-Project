@@ -1,0 +1,474 @@
+MakeID,MakeName,ModelID,ModelName,BodyID,BodyType,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020
+2,Jeep / Kaiser-Jeep / Willys- Jeep,404,Cherokee (1984-on) (For Grand Cherokee for 2014 on use 02-422.),14,Compact utility,0,0,0,0,0,312,303,323,299,291,312
+2,Jeep / Kaiser-Jeep / Willys- Jeep,421,Cherokee (thru 1983),15,Large utility,0,1,1,0,2,1,0,0,2,0,1
+2,Jeep / Kaiser-Jeep / Willys- Jeep,401,CJ-2/CJ-3/CJ-4,14,Compact utility,1,0,0,1,0,0,0,0,0,0,0
+2,Jeep / Kaiser-Jeep / Willys- Jeep,402,CJ-5/CJ-6/CJ-7/CJ-8,14,Compact utility,14,5,17,6,10,12,10,12,9,10,8
+2,Jeep / Kaiser-Jeep / Willys- Jeep,482,Comanche,31,Standard pickup,1,4,2,3,2,3,1,1,2,2,1
+2,Jeep / Kaiser-Jeep / Willys- Jeep,406,Commander,14,Compact utility,10,4,6,10,9,8,10,9,12,8,16
+2,Jeep / Kaiser-Jeep / Willys- Jeep,1,Compass,6,Station Wagon,2,5,5,8,6,11,17,33,28,30,36
+2,Jeep / Kaiser-Jeep / Willys- Jeep,483,Gladiator,34,Light Pickup,0,0,0,0,0,0,0,0,0,2,8
+2,Jeep / Kaiser-Jeep / Willys- Jeep,422,Grand Cherokee (For 2014 on.  Use model 404 for model years prior to 2013.),15,Large utility,0,0,0,0,0,11,10,32,21,43,47
+2,Jeep / Kaiser-Jeep / Willys- Jeep,431,Grand Wagoneer,15,Large utility,1,4,1,1,3,1,0,0,0,0,2
+2,Jeep / Kaiser-Jeep / Willys- Jeep,405,Liberty,14,Compact utility,64,79,57,83,68,92,72,81,79,82,73
+2,Jeep / Kaiser-Jeep / Willys- Jeep,498,Other (light truck),14,Compact utility,1,1,0,0,0,0,1,1,0,1,2
+2,Jeep / Kaiser-Jeep / Willys- Jeep,407,Patriot,14,Compact utility,5,9,7,10,13,32,35,46,46,37,48
+2,Jeep / Kaiser-Jeep / Willys- Jeep,481,Pick-up,31,Standard pickup,1,1,1,0,0,0,0,0,0,0,0
+2,Jeep / Kaiser-Jeep / Willys- Jeep,408,Renegade,14,Compact utility,0,0,0,0,0,0,6,9,6,23,16
+2,Jeep / Kaiser-Jeep / Willys- Jeep,999,Unknown (JEEP),49,Unknown light vehicle type,0,0,2,1,6,3,3,0,2,2,4
+2,Jeep / Kaiser-Jeep / Willys- Jeep,499,Unknown (light truck),14,Compact utility,1,2,0,1,3,0,1,0,0,0,0
+2,Jeep / Kaiser-Jeep / Willys- Jeep,403,YJ series/Wrangler,14,Compact utility,133,127,136,134,168,171,159,154,179,170,171
+7,Dodge,12,400,1,Convertible,0,0,0,0,0,0,0,0,0,0,0
+7,Dodge,14,600,1,Convertible,2,1,1,0,0,0,0,0,0,0,0
+7,Dodge,11,Aries (K),2,"2-door sedan,hardtop,coupe",4,2,1,2,1,2,0,0,0,0,0
+7,Dodge,6,Aspen,2,"2-door sedan,hardtop,coupe",0,0,0,0,0,0,0,0,0,0,0
+7,Dodge,26,Avenger,4,"4-door sedan, hardtop",28,36,35,31,37,44,53,61,54,50,60
+7,Dodge,42,Avenger,2,"2-door sedan,hardtop,coupe",28,36,35,31,37,44,53,61,54,50,60
+7,Dodge,461,B-Series Van/Ram Van/ Ram Wagon,21,Large Van,46,49,21,32,12,33,18,20,15,12,11
+7,Dodge,30,Barracuda,2,"2-door sedan,hardtop,coupe",0,0,0,0,0,0,0,0,0,0,0
+7,Dodge,981,Bus**: Conventional (Engine out front),50,School Bus,0,0,0,0,0,0,0,0,0,0,0
+7,Dodge,25,Caliber,5,5-door/4-door hatchback,26,31,30,33,43,51,30,39,48,41,34
+7,Dodge,442,Caravan/Grand Caravan,20,Minivan,238,228,223,212,229,236,217,233,237,220,170
+7,Dodge,5,Challenger,1,Convertible,7,10,15,18,0,0,0,0,1,0,0
+7,Dodge,33,Challenger,2,"2-door sedan,hardtop,coupe",7,10,15,18,0,0,0,0,1,0,0
+7,Dodge,28,Challenger (2008 on; for 1970-74 see model 005),2,"2-door sedan,hardtop,coupe",0,0,0,0,22,39,30,60,42,67,99
+7,Dodge,24,Charger,2,"2-door sedan,hardtop,coupe",36,46,60,64,58,77,96,111,101,116,146
+7,Dodge,34,Colt  (includes 2WD Vista),2,"2-door sedan,hardtop,coupe",1,2,4,0,1,0,1,0,0,0,0
+7,Dodge,35,Conquest,3,3-door/2-door hatchback,0,0,0,0,0,0,0,0,0,0,0
+7,Dodge,2,Coronet/Magnum/ Charger (thru 1978),1,Convertible,1,0,0,0,0,0,0,0,2,1,0
+7,Dodge,481,"D, W-Series pickup",31,Standard pickup,37,18,21,16,24,14,13,15,9,8,12
+7,Dodge,471,"D50, Colt pickup, Ram 50/Ram 100",30,Compact pickup,5,8,5,4,7,3,2,4,0,0,0
+7,Dodge,472,Dakota,30,Compact pickup,143,160,142,129,158,133,151,130,137,110,117
+7,Dodge,1,Dart,1,Convertible,0,0,0,2,1,0,2,0,0,0,2
+7,Dodge,29,Dart (2013 on. See model 001 for 1960-1976.),4,"4-door sedan, hardtop",0,0,3,3,10,19,29,38,21,29,26
+7,Dodge,15,Daytona,3,3-door/2-door hatchback,0,3,2,0,0,0,0,0,1,0,0
+7,Dodge,7,Diplomat,2,"2-door sedan,hardtop,coupe",0,0,1,0,1,0,1,1,0,0,0
+7,Dodge,402,Durango (1998-2003 only; see model 422 for 2004 on),14,Compact utility,68,77,67,49,65,64,41,58,41,44,31
+7,Dodge,422,Durango (2004 on; see 402 for 1998-2003 models),15,Large utility,23,23,21,35,33,39,59,36,40,63,52
+7,Dodge,18,Dynasty,2,"2-door sedan,hardtop,coupe",7,9,3,4,2,4,1,0,4,1,4
+7,Dodge,41,Intrepid,4,"4-door sedan, hardtop",58,37,38,37,42,22,16,21,11,16,3
+7,Dodge,27,"Journey (For 2009-2018 only.  For model years 2019 on, see 07-404.)",6,Station Wagon,0,0,0,0,0,0,30,43,40,58,68
+7,Dodge,404,"Journey (For 2019 on.  For model years 2009-2018, see 07-027.)",14,Compact utility,0,0,0,0,0,0,0,0,0,5,4
+7,Dodge,16,Lancer,2,"2-door sedan,hardtop,coupe",0,0,0,0,0,0,0,0,0,1,0
+7,Dodge,21,Magnum,6,Station Wagon,14,11,11,14,14,7,9,7,8,9,8
+7,Dodge,881,Medium/Heavy â€“ CBE,60,Step van,0,0,0,0,0,0,0,0,0,0,0
+7,Dodge,890,Medium/Heavy â€“ COE entry position unknown,60,Step van,0,0,0,0,0,0,0,0,0,0,0
+7,Dodge,883,Medium/Heavy â€“ COE high entry,60,Step van,0,0,0,0,0,0,0,0,0,0,0
+7,Dodge,882,Medium/Heavy â€“ COE low entry,60,Step van,0,0,0,0,0,0,0,0,0,0,0
+7,Dodge,884,Medium/Heavy â€“Unknown engine location,60,Step van,0,0,0,0,0,0,0,0,0,0,0
+7,Dodge,880,"Medium/Heavy Pickup (pickup-style only â€“ over 10,000 lbs)",67,Medium/Heavy Pickup,0,0,0,0,0,0,0,0,0,0,0
+7,Dodge,870,Medium/Heavy Van-Based Vehicle,55,"Van-Based Bus GVWR > 10,000 lbs.",0,1,0,0,0,0,0,0,0,0,0
+7,Dodge,9,Mirada,2,"2-door sedan,hardtop,coupe",0,0,0,0,0,0,0,0,0,0,0
+7,Dodge,40,Monaco,2,"2-door sedan,hardtop,coupe",0,0,0,0,1,0,0,0,0,0,0
+7,Dodge,850,Motor Home,65,Medium/heavy truck based motorhome,1,0,0,0,3,0,0,0,0,0,0
+7,Dodge,20,Neon,2,"2-door sedan,hardtop,coupe",142,121,138,113,119,106,83,72,65,51,41
+7,Dodge,403,Nitro,14,Compact utility,4,9,6,9,8,12,10,9,5,6,14
+7,Dodge,8,Omni/Charger (1983 on),3,3-door/2-door hatchback,1,0,1,0,0,0,0,1,0,0,0
+7,Dodge,398,Other (automobile),1,Convertible,2,0,0,0,0,0,1,1,1,0,0
+7,Dodge,988,Other (bus),50,School Bus,0,0,0,0,0,0,0,0,0,0,0
+7,Dodge,498,Other (light truck),14,Compact utility,0,2,0,3,0,2,3,4,1,0,0
+7,Dodge,898,Other (medium/heavy truck),60,Step van,0,0,1,0,0,0,0,0,0,0,0
+7,Dodge,998,Other (vehicle),91,Snowmobile,0,0,0,0,1,0,0,0,0,0,0
+7,Dodge,3,Polara/Monaco/ Royal Monaco,1,Convertible,0,0,0,0,0,0,0,0,0,0,0
+7,Dodge,444,Promaster City,20,Minivan,0,0,0,0,0,1,1,0,5,2,2
+7,Dodge,401,RaiderSport,14,Compact utility,0,0,0,1,0,1,0,0,0,0,1
+7,Dodge,443,Ram C/V,20,Minivan,0,0,0,0,0,3,1,1,0,1,1
+7,Dodge,482,Ram Pickup,31,Standard pickup,440,412,424,434,472,560,522,514,511,483,537
+7,Dodge,463,Ram Promaster,21,Large Van,0,0,0,0,0,2,3,6,10,5,5
+7,Dodge,421,Ramcharger,15,Large utility,1,2,1,1,1,2,1,2,0,2,2
+7,Dodge,13,Rampage (car-based pickup),10,Auto-based pickup,0,0,1,0,0,1,0,0,0,0,0
+7,Dodge,17,Shadow,1,Convertible,3,7,7,1,2,1,1,2,0,0,1
+7,Dodge,19,Spirit,1,Convertible,4,2,8,6,1,3,5,4,1,1,2
+7,Dodge,462,Sprinter,21,Large Van,3,1,3,5,4,3,6,0,2,2,0
+7,Dodge,10,St Regis,4,"4-door sedan, hardtop",0,0,0,0,0,0,0,0,0,0,0
+7,Dodge,39,Stealth,2,"2-door sedan,hardtop,coupe",7,2,5,1,4,3,2,3,0,0,1
+7,Dodge,43,Stratus,2,"2-door sedan,hardtop,coupe",104,91,77,86,76,68,51,31,32,31,12
+7,Dodge,399,Unknown (automobile),1,Convertible,1,3,0,1,0,0,1,0,0,3,0
+7,Dodge,989,Unknown (bus),50,School Bus,0,0,0,0,0,0,0,0,0,0,0
+7,Dodge,999,Unknown (DODGE),49,Unknown light vehicle type,0,1,0,2,1,1,1,0,0,0,0
+7,Dodge,499,Unknown (light truck),14,Compact utility,0,1,1,2,1,0,1,0,0,0,0
+7,Dodge,470,Van Derivative,28,Other van type,1,1,2,2,3,3,1,1,0,0,0
+7,Dodge,4,Viper,1,Convertible,5,4,3,3,6,6,5,1,2,1,3
+7,Dodge,441,Vista Van,20,Minivan,0,0,0,0,0,0,0,0,0,0,0
+12,Ford,441,Aerostar,20,Minivan,30,18,20,11,5,10,7,13,3,1,5
+12,Ford,36,Aspire,3,3-door/2-door hatchback,9,8,8,3,3,4,7,2,0,1,0
+12,Ford,401,"Bronco (thru 1977)/Bronco II/Explorer/Explorer Sport (Explorer for 1990-2018 only.  For model years 2019 on, see 12-425.)",14,Compact utility,0,0,0,0,0,0,458,447,359,360,303
+12,Ford,421,Bronco-fullsize (1978-on),15,Large utility,24,16,17,13,9,16,6,2,1,3,3
+12,Ford,981,Bus**: Conventional (Engine out front),50,School Bus,0,0,0,1,0,1,0,0,1,1,1
+12,Ford,27,C-Max,5,5-door/4-door hatchback,0,0,0,0,0,3,3,3,3,3,5
+12,Ford,26,City,2,"2-door sedan,hardtop,coupe",0,0,0,0,0,0,0,0,0,0,0
+12,Ford,35,Contour,4,"4-door sedan, hardtop",59,54,39,32,17,25,18,17,5,6,8
+12,Ford,472,Courier,30,Compact pickup,0,3,1,0,0,0,0,0,0,0,1
+12,Ford,16,"Crown Victoria  (For 2011 on, code as vehicle model 398)",2,"2-door sedan,hardtop,coupe",0,133,0,0,0,127,121,94,87,69,70
+12,Ford,461,E-Series Van/Econoline,21,Large Van,141,116,103,105,110,124,110,84,88,101,74
+12,Ford,403,EcoSport,14,Compact utility,0,0,0,0,0,0,0,0,0,8,11
+12,Ford,24,"Edge (For model years 2007-2018 only.  For model years 2019 on, see 12-424.)",6,Station Wagon,0,0,0,0,0,0,49,42,60,55,79
+12,Ford,424,"Edge(For 2019 on.  For model years 2007-2018, see 12-024.)",15,Large utility,0,0,0,0,0,0,0,0,0,5,3
+12,Ford,31,English Ford,2,"2-door sedan,hardtop,coupe",0,0,0,0,0,0,0,0,0,0,0
+12,Ford,402,Escape,14,Compact utility,99,93,103,124,129,159,184,214,206,230,248
+12,Ford,13,Escort/EXP/ZX2,2,"2-door sedan,hardtop,coupe",207,164,167,107,89,93,61,57,36,25,20
+12,Ford,423,Excursion,15,Large utility,18,23,29,10,16,18,19,11,26,21,23
+12,Ford,422,Expedition,15,Large utility,177,161,180,178,171,179,167,182,143,147,152
+12,Ford,425,Explorer (For 2019 on.  For model years 1990-2018 see 12-401.),15,Large utility,0,0,0,0,0,0,0,0,0,2,11
+12,Ford,473,Explorer Sport Trac,30,Compact pickup,26,33,47,37,44,52,44,56,56,44,39
+12,Ford,481,F-Series pickup,31,Standard pickup,1038,990,996,979,939,1097,1054,981,1007,1053,990
+12,Ford,2,Fairlane,1,Convertible,0,0,3,2,0,0,2,0,1,0,0
+12,Ford,12,Fairmont,2,"2-door sedan,hardtop,coupe",1,0,1,0,0,0,0,0,0,1,0
+12,Ford,1,Falcon,2,"2-door sedan,hardtop,coupe",1,0,0,0,0,0,2,1,1,2,0
+12,Ford,33,Festiva,3,3-door/2-door hatchback,7,4,9,4,3,3,2,2,0,6,2
+12,Ford,32,Fiesta,3,3-door/2-door hatchback,0,0,8,19,21,0,28,43,68,89,58
+12,Ford,21,Five Hundred,4,"4-door sedan, hardtop",14,12,18,20,21,18,31,13,22,23,27
+12,Ford,25,Flex,6,Station Wagon,0,0,3,2,4,7,6,3,9,17,9
+12,Ford,37,Focus,2,"2-door sedan,hardtop,coupe",242,230,236,266,273,291,280,362,333,310,320
+12,Ford,443,Freestar,20,Minivan,14,14,14,19,12,9,12,15,5,16,15
+12,Ford,22,Freestyle,6,Station Wagon,3,7,5,3,13,10,13,10,9,9,12
+12,Ford,23,Fusion,4,"4-door sedan, hardtop",64,72,80,85,123,143,147,208,215,242,260
+12,Ford,11,Granada,2,"2-door sedan,hardtop,coupe",0,1,0,0,0,0,0,0,0,0,0
+12,Ford,38,GT,1,Convertible,1,0,0,1,1,0,0,0,0,0,0
+12,Ford,34,Laser,2,"2-door sedan,hardtop,coupe",0,0,0,0,0,0,0,0,0,0,0
+12,Ford,5,LTD II,2,"2-door sedan,hardtop,coupe",0,0,2,0,0,0,0,0,0,0,0
+12,Ford,6,LTD/Custom/Galaxy (all sizes),1,Convertible,3,1,4,1,2,0,0,2,1,3,3
+12,Ford,8,Maverick,2,"2-door sedan,hardtop,coupe",0,3,0,1,0,1,0,0,0,0,0
+12,Ford,881,Medium/Heavy â€“ CBE,60,Step van,0,0,0,0,0,0,0,0,0,0,0
+12,Ford,890,Medium/Heavy â€“ COE entry position unknown,60,Step van,0,0,0,0,0,0,0,0,0,0,0
+12,Ford,883,Medium/Heavy â€“ COE high entry,60,Step van,0,0,0,0,0,0,0,0,0,0,0
+12,Ford,882,Medium/Heavy â€“ COE low entry,60,Step van,0,0,0,0,0,0,0,0,0,0,0
+12,Ford,884,Medium/Heavy â€“ Unknown engine location,60,Step van,0,0,0,0,0,0,0,0,0,0,0
+12,Ford,880,"Medium/Heavy Pickup (pickup-style only - over 10,000 lbs)",67,Medium/Heavy Pickup,18,19,29,26,24,23,55,70,56,63,67
+12,Ford,870,Medium/Heavy Van-Based Vehicle,55,"Van-Based Bus GVWR > 10,000 lbs.",0,11,18,16,5,8,5,28,26,29,25
+12,Ford,850,Motorhome,65,Medium/heavy truck based motorhome,3,2,2,0,1,3,6,6,6,7,3
+12,Ford,3,Mustang/Mustang II,1,Convertible,249,269,308,280,261,308,290,292,272,225,273
+12,Ford,398,Other (automobile),1,Convertible,13,11,9,5,4,11,7,7,8,8,8
+12,Ford,988,Other (bus),50,School Bus,6,1,0,1,0,0,0,0,0,0,0
+12,Ford,498,Other (light truck),14,Compact utility,0,1,2,2,1,3,0,0,3,1,1
+12,Ford,898,Other (medium/heavy truck),60,Step van,0,0,0,1,1,2,2,0,0,0,0
+12,Ford,998,Other (vehicle),92,Farm equipment other than trucks,3,6,5,3,5,6,4,0,5,2,2
+12,Ford,9,Pinto,2,"2-door sedan,hardtop,coupe",0,1,0,0,0,1,0,0,1,1,0
+12,Ford,18,Probe,3,3-door/2-door hatchback,12,6,9,5,5,5,7,0,3,0,5
+12,Ford,7,Ranchero,10,Auto-based pickup,0,0,0,1,0,0,0,0,0,0,0
+12,Ford,471,Ranger,30,Compact pickup,403,367,385,344,343,333,352,360,333,305,281
+12,Ford,17,Taurus/Taurus X,4,"4-door sedan, hardtop",397,352,331,315,310,268,299,254,233,206,180
+12,Ford,15,Tempo,2,"2-door sedan,hardtop,coupe",20,23,13,12,5,5,7,3,3,3,4
+12,Ford,4,Thunderbird (all sizes),1,Convertible,28,23,21,13,19,20,9,18,15,8,10
+12,Ford,10,Torino/Gran Torino/Elite,1,Convertible,0,0,0,1,0,0,0,0,0,0,0
+12,Ford,462,Transit,21,Large Van,0,0,0,0,0,3,12,16,24,31,13
+12,Ford,444,Transit Connect,20,Minivan,1,3,1,8,3,7,15,13,14,13,12
+12,Ford,399,Unknown (automobile),1,Convertible,4,6,4,0,5,0,1,3,2,2,0
+12,Ford,989,Unknown (bus),50,School Bus,0,0,0,1,0,0,0,0,1,0,0
+12,Ford,999,Unknown (FORD),49,Unknown light vehicle type,3,3,8,1,2,2,5,4,0,1,4
+12,Ford,499,Unknown (light truck),14,Compact utility,2,0,1,2,0,0,6,2,3,4,1
+12,Ford,470,Van Derivative,28,Other van type,0,0,1,0,0,4,0,0,0,0,0
+12,Ford,442,Windstar,20,Minivan,101,73,88,60,58,49,51,38,28,15,10
+20,Chevrolet,441,Astro Van,20,Minivan,60,57,67,49,36,39,42,27,24,19,20
+20,Chevrolet,482,Avalanche,31,Standard pickup,43,36,38,43,48,42,40,54,39,62,60
+20,Chevrolet,39,Aveo/Aveo 5,4,"4-door sedan, hardtop",52,45,67,50,50,67,57,49,35,40,37
+20,Chevrolet,19,Beretta/Corsica,2,"2-door sedan,hardtop,coupe",45,46,31,16,14,6,9,8,5,3,3
+20,Chevrolet,407,Blazer,14,Compact utility,0,0,0,0,0,0,0,0,0,1,0
+20,Chevrolet,40,Bolt,5,5-door/4-door hatchback,0,0,0,0,0,0,0,0,0,1,1
+20,Chevrolet,981,Bus**: Conventional (Engine out front),50,School Bus,2,0,4,0,5,0,0,0,0,0,0
+20,Chevrolet,481,"C, K, R, V-series pickup/Silverado",31,Standard pickup,1012,929,1020,962,995,1010,1059,1004,1020,1005,1014
+20,Chevrolet,9,Camaro,1,Convertible,117,106,120,84,97,113,126,106,104,100,148
+20,Chevrolet,27,Caprice PPV,4,"4-door sedan, hardtop",0,0,0,0,0,3,1,3,0,0,3
+20,Chevrolet,405,Captiva,14,Compact utility,0,0,3,4,13,8,8,14,10,12,16
+20,Chevrolet,16,Cavalier,1,Convertible,303,326,303,231,204,200,183,151,138,96,98
+20,Chevrolet,17,Celebrity,2,"2-door sedan,hardtop,coupe",12,7,7,7,5,0,4,3,1,1,4
+20,Chevrolet,1,"Chevelle/Malibu Classic, Councours, Laguna**, S-3, Greenbriar, Estate, 300,SS-396/454, Deluxe",1,Convertible,5,0,3,1,5,2,3,4,4,3,3
+20,Chevrolet,13,Chevette,3,3-door/2-door hatchback,2,1,1,1,1,2,1,0,0,0,0
+20,Chevrolet,15,Citation,2,"2-door sedan,hardtop,coupe",0,1,0,0,0,0,0,1,0,1,0
+20,Chevrolet,445,City Express,20,Minivan,0,0,0,0,0,0,0,1,2,5,0
+20,Chevrolet,22,Cobalt,2,"2-door sedan,hardtop,coupe",155,177,159,156,153,184,166,169,164,172,145
+20,Chevrolet,473,Colorado,30,Compact pickup,45,59,49,56,49,60,71,72,74,73,70
+20,Chevrolet,6,Corvair,1,Convertible,1,0,0,0,0,3,0,3,0,0,0
+20,Chevrolet,4,Corvette,1,Convertible,76,42,50,55,52,70,71,54,57,42,60
+20,Chevrolet,25,Cruze,2,"2-door sedan,hardtop,coupe",0,5,25,41,58,73,95,134,140,126,150
+20,Chevrolet,7,El Camino,10,Auto-based pickup,5,2,5,7,2,5,8,7,8,3,2
+20,Chevrolet,404,Equinox,14,Compact utility,33,26,51,64,81,76,111,149,165,178,199
+20,Chevrolet,421,Fullsize Blazer/Tahoe,15,Large utility,275,284,282,249,271,314,333,230,205,214,247
+20,Chevrolet,461,G-series van,21,Large Van,78,71,59,57,65,66,100,85,73,71,75
+20,Chevrolet,34,Geo Metro/Metro,1,Convertible,30,27,24,25,13,13,14,16,11,6,7
+20,Chevrolet,35,Geo Storm,2,"2-door sedan,hardtop,coupe",2,2,5,1,1,0,0,1,0,1,0
+20,Chevrolet,402,Geo Tracker/Tracker,14,Compact utility,44,44,50,44,32,44,34,27,17,23,27
+20,Chevrolet,23,HHR,6,Station Wagon,42,35,55,56,42,39,77,58,60,75,66
+20,Chevrolet,2,"Impala/Caprice (For SS from 2014 on, use 20-021.)",1,Convertible,0,0,0,0,409,397,383,414,417,359,428
+20,Chevrolet,20,Lumina,2,"2-door sedan,hardtop,coupe",137,117,94,81,71,70,45,40,29,22,8
+20,Chevrolet,442,Lumina APV,20,Minivan,8,5,6,3,3,1,2,6,4,1,4
+20,Chevrolet,472,LUV,30,Compact pickup,0,1,0,2,0,0,0,0,1,0,0
+20,Chevrolet,37,Malibu/Malibu Maxx,4,"4-door sedan, hardtop",199,268,286,270,243,344,328,364,336,319,360
+20,Chevrolet,881,Medium/Heavy â€“ CBE,60,Step van,0,0,0,0,0,0,0,0,0,0,0
+20,Chevrolet,890,Medium/Heavy â€“ COE entry position unknown,60,Step van,0,0,0,0,0,0,0,0,0,0,0
+20,Chevrolet,883,Medium/Heavy â€“ COE high entry,60,Step van,0,0,0,0,0,0,0,0,0,0,0
+20,Chevrolet,882,Medium/Heavy â€“ COE low entry,60,Step van,0,0,0,0,0,0,0,0,0,0,0
+20,Chevrolet,884,Medium/Heavy â€“Unknown engine location,60,Step van,0,0,0,0,0,0,0,0,0,0,0
+20,Chevrolet,880,"Medium/Heavy Pickup (pickup-style only â€“ over 10,000 lbs)",67,Medium/Heavy Pickup,0,0,0,0,0,0,0,0,0,0,0
+20,Chevrolet,870,Medium/Heavy Van-Based Vehicle,55,"Van-Based Bus GVWR > 10,000 lbs.",0,3,1,5,3,2,3,5,8,7,4
+20,Chevrolet,36,Monte Carlo (1995 on),2,"2-door sedan,hardtop,coupe",92,83,94,99,66,57,65,61,48,52,43
+20,Chevrolet,10,Monte Carlo (thru '88),2,"2-door sedan,hardtop,coupe",9,4,5,10,5,6,4,6,3,2,1
+20,Chevrolet,12,Monza,2,"2-door sedan,hardtop,coupe",0,0,0,0,0,0,0,0,0,0,0
+20,Chevrolet,850,Motor Home,65,Medium/heavy truck based motorhome,1,1,1,5,2,4,1,2,1,3,1
+20,Chevrolet,8,Nova (-'79),1,Convertible,1,5,6,3,2,0,5,3,2,1,5
+20,Chevrolet,32,Nova/Geo Prizm/Prism,2,"2-door sedan,hardtop,coupe",77,73,45,34,35,34,27,24,30,13,19
+20,Chevrolet,398,Other (automobile),1,Convertible,2,5,9,9,5,7,7,3,2,2,3
+20,Chevrolet,988,Other (bus),50,School Bus,1,1,0,1,0,2,0,0,0,0,0
+20,Chevrolet,498,Other (light truck),14,Compact utility,7,6,7,6,18,12,6,7,4,7,13
+20,Chevrolet,898,Other (medium/heavy truck),60,Step van,1,0,1,1,1,0,0,0,0,0,0
+20,Chevrolet,998,Other (vehicle),91,Snowmobile,0,0,0,0,0,0,0,0,0,0,0
+20,Chevrolet,466,P-series van,22,Step-van or walk-in van,1,0,2,4,2,1,1,0,0,1,0
+20,Chevrolet,401,"S-10 Blazer/TrailBlazer (2002 only; for 2003 on, see 403)",14,Compact utility,290,264,246,189,158,159,149,186,141,123,139
+20,Chevrolet,471,S-10/T-10 Pickup,30,Compact pickup,263,243,224,218,180,193,156,158,160,130,127
+20,Chevrolet,28,Sonic,4,"4-door sedan, hardtop",0,0,5,12,13,31,40,48,60,42,51
+20,Chevrolet,29,Spark,5,5-door/4-door hatchback,0,0,0,3,9,13,16,27,27,30,29
+20,Chevrolet,31,Spectrum,2,"2-door sedan,hardtop,coupe",1,1,0,0,0,0,0,0,0,0,0
+20,Chevrolet,33,Sprint/Geo Sprint,3,3-door/2-door hatchback,1,3,2,0,0,2,0,1,1,0,1
+20,Chevrolet,21,SS (For 2014 on.  For Impala/Caprice SS use model 20-002.),4,"4-door sedan, hardtop",0,0,0,0,0,4,3,1,4,0,3
+20,Chevrolet,38,SSR,10,Auto-based pickup,1,1,1,1,0,2,1,1,1,0,1
+20,Chevrolet,431,Suburban (from 1950-2003;see 422 for 2004 on),16,Utility station wagon,119,123,124,109,94,94,103,92,93,77,94
+20,Chevrolet,422,Suburban (from 2004 on; see 431 for 1950-2003),15,Large utility,33,20,33,34,42,31,39,39,55,37,66
+20,Chevrolet,403,"TrailBlazer (2003 on; for 2002 model, see 401)",14,Compact utility,129,123,129,138,146,135,109,174,156,165,131
+20,Chevrolet,24,Traverse (2009-2012 only.  For 2013 on see model 423.),6,Station Wagon,6,5,3,5,10,16,15,30,15,15,22
+20,Chevrolet,423,Traverse (2013 on.  For 2009-2012 see model 024.),15,Large utility,0,0,0,0,9,7,10,19,14,28,22
+20,Chevrolet,406,Trax,14,Compact utility,0,0,0,0,0,3,5,13,12,24,31
+20,Chevrolet,399,Unknown (automobile),1,Convertible,3,9,5,2,0,9,5,2,3,1,1
+20,Chevrolet,989,Unknown (bus),50,School Bus,0,0,0,0,1,0,0,0,0,0,0
+20,Chevrolet,999,Unknown (CHEVROLET),49,Unknown light vehicle type,3,1,3,6,3,4,1,2,4,2,0
+20,Chevrolet,499,Unknown (light truck),14,Compact utility,1,6,5,4,6,20,12,3,4,3,3
+20,Chevrolet,444,Uplander,20,Minivan,19,16,15,19,23,24,25,26,15,23,16
+20,Chevrolet,470,Van derivative,22,Step-van or walk-in van,1,1,1,1,1,11,5,0,1,1,0
+20,Chevrolet,11,Vega,2,"2-door sedan,hardtop,coupe",0,0,0,0,0,0,1,0,0,0,0
+20,Chevrolet,443,Venture,20,Minivan,49,52,50,51,45,46,36,43,21,23,21
+20,Chevrolet,26,Volt,5,5-door/4-door hatchback,0,0,0,0,0,2,4,0,2,0,4
+23,GMC,8,Acadia (2007-2012 only.  For 2013 on see model 423.),6,Station Wagon,2,6,9,12,8,10,12,18,16,13,23
+23,GMC,423,Acadia (2013 on. For 2007-2012 see model 008.),15,Large utility,0,0,0,1,1,3,9,11,16,18,13
+23,GMC,981,Bus**: Conventional (Engine out front),50,School Bus,0,0,0,0,0,0,0,0,0,0,0
+23,GMC,481,"C, K, R, V-series pickup/     Sierra",31,Standard pickup,328,282,298,301,328,322,375,319,275,312,365
+23,GMC,7,Caballero,10,Auto-based pickup,0,0,0,0,0,0,0,1,0,0,0
+23,GMC,472,Canyon,30,Compact pickup,16,18,10,26,21,13,18,18,23,15,23
+23,GMC,421,Fullsize Jimmy/Yukon,15,Large utility,72,79,76,105,69,83,86,72,93,99,88
+23,GMC,461,G-series van/Savana,21,Large Van,28,19,27,24,15,23,22,28,27,29,26
+23,GMC,401,Jimmy/Typhoon/Envoy,14,Compact utility,109,120,110,128,112,119,136,137,130,77,110
+23,GMC,881,Medium/Heavy - CBE,60,Step van,13,9,17,10,1,4,9,10,10,3,16
+23,GMC,890,Medium/Heavy â€“ COE entry position unknown,60,Step van,0,0,0,0,0,0,0,0,0,0,0
+23,GMC,883,Medium/Heavy â€“ COE high entry,60,Step van,0,0,0,0,0,0,0,0,0,0,0
+23,GMC,882,Medium/Heavy â€“ COE low entry,60,Step van,0,0,0,0,0,0,0,0,0,0,0
+23,GMC,884,Medium/Heavy â€“ Unknown engine location,60,Step van,0,0,0,0,0,0,0,0,0,0,0
+23,GMC,880,"Medium/Heavy Pickup (pickup-style only - over 10,000 lbs",67,Medium/Heavy Pickup,1,1,3,1,2,2,4,2,4,7,6
+23,GMC,870,Medium/Heavy Van-Based Vehicle,55,"Van-Based Bus GVWR > 10,000 lbs.",0,2,2,4,1,0,1,3,1,1,3
+23,GMC,850,Motor Home,65,Medium/heavy truck based motorhome,1,0,0,0,0,0,0,0,0,2,0
+23,GMC,988,Other (bus),50,School Bus,0,0,0,0,0,0,0,0,0,0,0
+23,GMC,498,Other (light truck),14,Compact utility,0,1,0,1,1,1,1,3,3,0,0
+23,GMC,898,Other (medium/heavy truck),60,Step van,0,1,1,0,0,2,1,0,0,0,0
+23,GMC,998,Other (vehicle),91,Snowmobile,0,0,0,0,0,1,0,0,0,0,0
+23,GMC,466,P-series van,22,Step-van or walk-in van,0,0,0,0,0,0,0,0,0,0,0
+23,GMC,471,S15/T15/Sonoma,30,Compact pickup,95,81,81,67,48,37,49,34,29,41,44
+23,GMC,441,Safari (Minivan),20,Minivan,26,14,15,15,5,11,17,16,11,7,8
+23,GMC,431,Suburban/Yukon XL (2000 on) (1950-2003 only; see 422 for 2004 on),16,Utility station wagon,60,35,46,31,31,35,38,32,28,28,38
+23,GMC,422,Suburban/Yukon XL (2004 on; see 431 for 1950- 2003),15,Large utility,8,11,4,13,16,17,23,23,23,33,31
+23,GMC,402,Terrain,14,Compact utility,1,2,16,14,16,31,19,34,36,38,65
+23,GMC,399,Unknown (automobile),6,Station Wagon,0,0,2,0,0,0,0,1,0,0,1
+23,GMC,989,Unknown (bus),50,School Bus,0,0,0,0,0,0,0,0,0,0,0
+23,GMC,999,Unknown (GMC),49,Unknown light vehicle type,0,0,0,0,1,2,1,1,0,0,0
+23,GMC,499,Unknown (light truck),14,Compact utility,0,1,0,0,2,7,4,2,0,1,0
+23,GMC,470,Van derivative,28,Other van type,0,0,0,0,1,1,0,0,1,0,0
+35,Nissan/Datsun,32,200SX/240SX,1,Convertible,0,0,0,0,0,0,6,0,3,4,3
+35,Nissan/Datsun,33,210/1200/B210,2,"2-door sedan,hardtop,coupe",0,0,0,0,0,0,0,0,0,0,0
+35,Nissan/Datsun,35,310,2,"2-door sedan,hardtop,coupe",0,0,0,0,0,0,0,0,0,0,0
+35,Nissan/Datsun,41,311/411,4,"4-door sedan, hardtop",0,0,0,0,0,0,0,0,0,0,0
+35,Nissan/Datsun,48,350Z/370Z,1,Convertible,0,0,0,0,0,0,57,0,42,42,32
+35,Nissan/Datsun,36,510,2,"2-door sedan,hardtop,coupe",0,0,0,0,0,0,0,0,0,0,0
+35,Nissan/Datsun,37,610,2,"2-door sedan,hardtop,coupe",0,0,0,0,0,0,0,0,0,0,0
+35,Nissan/Datsun,38,710,2,"2-door sedan,hardtop,coupe",0,0,0,0,0,0,0,0,0,0,0
+35,Nissan/Datsun,39,810/Maxima,4,"4-door sedan, hardtop",0,0,0,0,0,0,183,0,131,130,161
+35,Nissan/Datsun,47,Altima,2,"2-door sedan,hardtop,coupe",0,0,0,0,0,0,401,0,474,495,557
+35,Nissan/Datsun,444,Altra EV*,20,Minivan,0,0,0,0,0,0,0,0,0,0,0
+35,Nissan/Datsun,442,Axxess,20,Minivan,0,0,0,0,0,0,0,0,0,0,0
+35,Nissan/Datsun,52,Cube,6,Station Wagon,0,0,0,0,0,0,2,0,7,5,3
+35,Nissan/Datsun,31,F-10,3,3-door/2-door hatchback,0,0,0,0,0,0,0,0,0,0,0
+35,Nissan/Datsun,472,Frontier (1998 on),30,Compact pickup,0,0,0,0,0,0,89,0,107,87,89
+35,Nissan/Datsun,53,GT-R,2,"2-door sedan,hardtop,coupe",0,0,0,0,0,0,0,0,0,0,3
+35,Nissan/Datsun,403,Juke,14,Compact utility,0,0,0,0,0,0,7,0,7,10,13
+35,Nissan/Datsun,56,Kicks,5,5-door/4-door hatchback,0,0,0,0,0,0,0,0,0,9,13
+35,Nissan/Datsun,55,Leaf,5,5-door/4-door hatchback,0,0,0,0,0,0,3,0,1,1,1
+35,Nissan/Datsun,870,Medium Heavy Van-Based Vehicle,55,"Van-Based Bus GVWR > 10,000 lbs.",0,0,0,0,0,0,0,0,0,0,0
+35,Nissan/Datsun,883,Medium/Heavy â€“ COE high entry,60,Step van,0,0,0,0,0,0,0,0,0,0,0
+35,Nissan/Datsun,45,Micra,1,Convertible,0,0,0,0,0,0,0,0,0,0,0
+35,Nissan/Datsun,49,"Murano (For 2003-2018 only.  For model years 2019 on, see 35-422.)",1,Convertible,0,0,0,0,0,0,42,0,37,70,56
+35,Nissan/Datsun,422,"Murano (For 2019 on.  For model years 2003-2018, see 35-056.)",15,Large utility,0,0,0,0,0,0,0,0,0,2,5
+35,Nissan/Datsun,471,Nissan/Datsun Pickup (1955-1997),30,Compact pickup,0,0,0,0,0,0,33,0,36,32,37
+35,Nissan/Datsun,461,NV,21,Large Van,0,0,0,0,0,0,1,0,2,4,3
+35,Nissan/Datsun,446,NV200/eNV200,20,Minivan,0,0,0,0,0,0,4,0,4,5,3
+35,Nissan/Datsun,46,NX 1600/2000,2,"2-door sedan,hardtop,coupe",0,0,0,0,0,0,0,0,0,0,0
+35,Nissan/Datsun,398,Other (automobile),1,Convertible,0,0,0,0,0,0,1,0,0,1,1
+35,Nissan/Datsun,498,Other (light truck),14,Compact utility,0,0,0,0,0,0,2,0,1,1,1
+35,Nissan/Datsun,898,Other (medium/heavy truck),60,Step van,0,0,0,0,0,0,1,0,0,0,0
+35,Nissan/Datsun,401,Pathfinder,14,Compact utility,0,0,0,0,0,0,86,0,71,82,69
+35,Nissan/Datsun,421,Pathfinder Armada,15,Large utility,0,0,0,0,0,0,16,0,29,25,21
+35,Nissan/Datsun,44,Pulsar,2,"2-door sedan,hardtop,coupe",0,0,0,0,0,0,0,0,0,0,0
+35,Nissan/Datsun,443,Quest,20,Minivan,0,0,0,0,0,0,19,0,26,15,27
+35,Nissan/Datsun,40,Roadster,1,Convertible,0,0,0,0,0,0,0,0,0,0,0
+35,Nissan/Datsun,51,"Rogue (For 2008-2018 only.  For model years 2019 on, see 35-404.)",6,Station Wagon,0,0,0,0,0,0,62,0,89,128,153
+35,Nissan/Datsun,404,"Rogue (For 2019 on.  For model years 2008-2018, see 35-051.)",14,Compact utility,0,0,0,0,0,0,0,0,2,14,40
+35,Nissan/Datsun,43,Sentra,2,"2-door sedan,hardtop,coupe",0,0,0,0,0,0,233,0,231,270,309
+35,Nissan/Datsun,42,Stanza,3,3-door/2-door hatchback,0,0,0,0,0,0,1,0,1,1,0
+35,Nissan/Datsun,473,Titan (from 2004-06; see 481 for 2007 on),31,Standard pickup,0,0,0,0,0,0,36,0,28,17,27
+35,Nissan/Datsun,481,Titan (from 2007 on; see 473 for 2004-06),31,Standard pickup,0,0,0,0,0,0,17,0,29,32,26
+35,Nissan/Datsun,399,Unknown (automobile),1,Convertible,0,0,0,0,0,0,1,0,2,2,2
+35,Nissan/Datsun,499,Unknown (light truck),14,Compact utility,0,0,0,0,0,0,0,0,1,0,1
+35,Nissan/Datsun,999,Unknown (NISSAN/DATSUN),49,Unknown light vehicle type,0,0,0,0,0,0,0,0,2,3,0
+35,Nissan/Datsun,441,Van,20,Minivan,0,0,0,0,0,0,0,0,0,0,0
+35,Nissan/Datsun,50,Versa,4,"4-door sedan, hardtop",0,0,0,0,0,0,112,0,129,152,182
+35,Nissan/Datsun,402,Xterra,14,Compact utility,0,0,0,0,0,0,34,0,44,55,46
+35,Nissan/Datsun,34,"Z-car, ZX",1,Convertible,0,0,0,0,0,0,6,0,7,2,6
+37,Honda,998,(Other Vehicle),95,Golf Cart,1,0,0,0,0,0,0,0,1,0,0
+37,Honda,701,0- 50 cc,80,Motorcycle,13,17,10,4,12,13,23,13,13,10,9
+37,Honda,703,125-349 cc,80,Motorcycle,30,51,35,50,41,60,53,65,69,54,81
+37,Honda,733,125-349cc (ATV),90,ATV,20,22,13,13,20,13,17,17,10,6,19
+37,Honda,704,350-449 cc,80,Motorcycle,8,12,8,7,10,14,3,3,5,4,19
+37,Honda,734,350cc or greater (ATV),90,ATV,35,28,35,26,42,34,37,39,52,42,60
+37,Honda,705,450-749 cc,80,Motorcycle,219,288,272,273,236,271,295,296,246,283,347
+37,Honda,702,51-124 cc,80,Motorcycle,13,14,9,9,11,5,8,10,5,4,9
+37,Honda,732,51-124cc (ATV),90,ATV,8,2,3,3,3,3,2,0,1,1,1
+37,Honda,34,600,2,"2-door sedan,hardtop,coupe",0,0,0,0,0,0,0,0,0,0,0
+37,Honda,706,750 cc or greater,80,Motorcycle,429,411,417,395,392,450,454,409,370,419,401
+37,Honda,32,"Accord (Note: For Crosstour model years 2010 and 2011 only. For Crosstour model years 2012-2015, see vehicle model 37-405)",2,"2-door sedan,hardtop,coupe",0,0,0,0,0,0,700,710,692,613,777
+37,Honda,31,"Civic/CRX, del Sol",2,"2-door sedan,hardtop,coupe",584,549,598,542,582,572,738,616,673,596,669
+37,Honda,402,CR-V,14,Compact utility,71,68,80,95,118,139,191,165,198,221,233
+37,Honda,41,CR-Z,3,3-door/2-door hatchback,0,1,0,0,0,1,4,1,2,4,1
+37,Honda,405,Crosstour (2012-2015 only. See vehicle model 37-032 for model years 2010 and 2011.),14,Compact utility,0,0,0,0,0,0,0,0,0,0,3
+37,Honda,403,Element,14,Compact utility,20,15,21,19,21,16,21,20,25,29,26
+37,Honda,36,EV Plus*,3,3-door/2-door hatchback,0,0,0,0,0,0,0,0,0,0,0
+37,Honda,38,FCX/Clarity,3,3-door/2-door hatchback,0,0,0,0,0,0,0,0,0,1,0
+37,Honda,39,Fit,5,5-door/4-door hatchback,9,16,22,21,24,33,36,46,45,41,47
+37,Honda,404,HR-V,14,Compact utility,0,0,0,0,0,2,4,10,9,10,27
+37,Honda,37,Insight,3,3-door/2-door hatchback,3,5,5,11,4,8,3,7,5,13,1
+37,Honda,441,Odyssey,20,Minivan,58,38,70,42,44,81,76,80,78,82,98
+37,Honda,398,Other (automobile),1,Convertible,1,1,0,1,0,0,0,0,0,2,0
+37,Honda,498,Other (light truck),14,Compact utility,0,0,0,0,0,0,0,0,0,0,0
+37,Honda,401,Passport,14,Compact utility,18,19,9,20,12,7,14,6,5,10,7
+37,Honda,422,Passport (2019 on. For 1994-2002 see model 401.),15,Large utility,0,0,0,0,0,0,0,0,0,2,1
+37,Honda,421,Pilot,15,Large utility,33,16,32,28,37,57,43,68,54,68,82
+37,Honda,33,Prelude,2,"2-door sedan,hardtop,coupe",29,27,20,12,22,19,15,8,10,9,7
+37,Honda,471,Ridgeline,30,Compact pickup,7,3,9,7,6,8,9,11,7,13,17
+37,Honda,35,S2000,1,Convertible,9,9,9,7,7,10,5,4,7,2,7
+37,Honda,399,Unknown (automobile),1,Convertible,2,3,0,1,0,0,0,0,0,1,2
+37,Honda,999,Unknown (HONDA),49,Unknown light vehicle type,1,0,0,0,1,0,0,0,0,0,1
+37,Honda,499,Unknown (light truck),14,Compact utility,0,1,0,0,0,0,0,0,0,0,0
+37,Honda,709,Unknown cc,80,Motorcycle,99,81,95,105,49,37,27,23,20,34,25
+37,Honda,739,Unknown cc (ATV),90,ATV,39,29,25,45,29,28,41,22,20,17,23
+48,Subaru,33,360,2,"2-door sedan,hardtop,coupe",0,0,0,0,0,0,0,0,0,0,0
+48,Subaru,421,Ascent,15,Large utility,0,0,0,0,0,0,0,0,0,4,0
+48,Subaru,402,B9 Tribeca,14,Compact utility,0,0,1,1,1,2,2,3,1,4,1
+48,Subaru,44,Baja,10,Auto-based pickup,0,2,1,0,6,2,4,2,2,0,0
+48,Subaru,43,Brat,10,Auto-based pickup,0,1,2,0,0,0,0,0,0,0,0
+48,Subaru,46,BRZ,2,"2-door sedan,hardtop,coupe",0,0,0,3,1,1,7,0,0,6,6
+48,Subaru,401,Forester,14,Compact utility,43,31,46,43,45,51,64,75,74,109,81
+48,Subaru,38,Impreza,2,"2-door sedan,hardtop,coupe",37,57,55,54,55,55,59,74,60,56,75
+48,Subaru,36,Justy,3,3-door/2-door hatchback,1,0,0,2,2,0,0,0,0,0,0
+48,Subaru,34,Legacy/Outback(prior to 2003 only; see 045 for 2003 on),4,"4-door sedan, hardtop",85,103,80,79,72,85,79,65,70,71,67
+48,Subaru,31,Loyale (1990 on)/DL/ FE/G/GF/GL/GLF/STD,2,"2-door sedan,hardtop,coupe",7,6,1,2,0,9,1,3,1,0,1
+48,Subaru,398,Other (automobile),1,Convertible,0,0,0,0,0,0,0,0,0,0,0
+48,Subaru,498,Other (light truck),14,Compact utility,0,0,0,0,0,0,0,0,0,0,0
+48,Subaru,45,Outback (2003 on)(see 034 for prior to 2003),4,"4-door sedan, hardtop",23,24,18,24,28,39,35,44,43,43,40
+48,Subaru,39,RX,3,3-door/2-door hatchback,0,0,0,0,0,0,0,0,0,0,0
+48,Subaru,32,Star,2,"2-door sedan,hardtop,coupe",0,0,0,0,0,0,0,0,0,0,0
+48,Subaru,37,SVX,2,"2-door sedan,hardtop,coupe",3,0,0,0,2,0,0,0,0,0,1
+48,Subaru,399,Unknown (automobile),1,Convertible,0,0,0,0,1,1,0,0,0,0,0
+48,Subaru,499,Unknown (light truck),14,Compact utility,0,0,0,1,0,0,1,0,0,0,0
+48,Subaru,999,Unknown (SUBARU),49,Unknown light vehicle type,0,0,0,1,0,0,0,0,0,0,0
+48,Subaru,47,WRX (2015 on; see 038 for prior to 2015.),4,"4-door sedan, hardtop",0,0,0,0,0,4,11,13,12,12,16
+48,Subaru,35,XT/XT6,1,Convertible,0,0,0,0,2,0,0,0,0,0,0
+48,Subaru,403,XV Crosstrek,14,Compact utility,0,0,0,0,2,4,5,6,12,12,12
+49,Toyota,401,4-Runner,14,Compact utility,119,134,132,107,106,139,161,136,164,120,135
+49,Toyota,56,86,3,3-door/2-door hatchback,0,0,0,0,0,0,0,2,1,1,1
+49,Toyota,43,Avalon,4,"4-door sedan, hardtop",67,65,62,63,106,104,109,112,120,93,131
+49,Toyota,405,C-HR,14,Compact utility,0,0,0,0,0,0,0,0,2,5,4
+49,Toyota,40,Camry,2,"2-door sedan,hardtop,coupe",475,464,451,491,527,538,600,618,572,610,643
+49,Toyota,37,Carina,2,"2-door sedan,hardtop,coupe",0,0,0,0,0,0,0,0,0,0,0
+49,Toyota,33,Celica,1,Convertible,29,23,23,27,26,25,26,14,12,12,20
+49,Toyota,32,Corolla,2,"2-door sedan,hardtop,coupe",389,348,377,409,393,427,472,502,505,495,471
+49,Toyota,31,Corona,2,"2-door sedan,hardtop,coupe",1,1,0,0,0,0,0,0,0,0,0
+49,Toyota,35,Cressida,4,"4-door sedan, hardtop",5,3,1,0,2,1,0,2,1,0,0
+49,Toyota,36,Crown,2,"2-door sedan,hardtop,coupe",0,0,0,0,0,0,0,0,0,0,0
+49,Toyota,45,ECHO,2,"2-door sedan,hardtop,coupe",15,27,21,20,13,26,20,18,22,17,10
+49,Toyota,404,FJ Cruiser,14,Compact utility,6,9,5,5,8,10,10,7,10,16,10
+49,Toyota,57,GR Supra,3,3-door/2-door hatchback,0,0,0,0,0,0,0,0,0,0,2
+49,Toyota,403,Highlander,14,Compact utility,24,32,32,37,32,52,43,54,71,68,65
+49,Toyota,421,Land Cruiser,15,Large utility,16,6,2,2,3,6,7,12,5,4,5
+49,Toyota,47,Matrix,6,Station Wagon,15,11,22,30,15,24,21,24,30,28,22
+49,Toyota,441,Minivan (1984-90)/ Previa (1991 on),20,Minivan,17,15,4,12,4,4,0,1,1,1,1
+49,Toyota,55,Mirai,4,"4-door sedan, hardtop",0,0,0,0,0,0,0,0,0,0,0
+49,Toyota,41,MR-2/MR Spyder,1,Convertible,3,6,7,5,4,4,5,4,4,6,2
+49,Toyota,398,Other (automobile),1,Convertible,0,1,1,1,1,2,0,0,0,0,0
+49,Toyota,498,Other (light truck),14,Compact utility,2,1,1,1,1,0,0,0,0,0,0
+49,Toyota,42,Paseo,1,Convertible,6,6,7,4,4,1,3,3,2,3,1
+49,Toyota,471,Pickup,30,Compact pickup,81,91,96,82,80,44,52,56,39,40,39
+49,Toyota,46,Prius *,3,3-door/2-door hatchback,44,39,40,63,75,91,93,118,112,100,115
+49,Toyota,402,RAV4 *,14,Compact utility,48,57,73,79,77,98,131,112,147,141,196
+49,Toyota,54,Scion iQ (2010-2011 only.  See Scion for 2012 on.),4,"4-door sedan, hardtop",0,0,0,1,0,0,0,0,0,0,0
+49,Toyota,50,Scion tC (2005-2011 only.  See Scion for 2012 on.),3,3-door/2-door hatchback,52,47,54,54,43,68,63,60,54,57,61
+49,Toyota,48,Scion xA,5,5-door/4-door hatchback,11,8,12,5,11,11,5,10,10,13,11
+49,Toyota,49,Scion xB (2004-2011 only.  See Scion for 2012 on.),6,Station Wagon,24,21,20,21,18,23,23,23,25,20,25
+49,Toyota,52,Scion xD (2007-2011 only.  See Scion for 2012 on.),5,5-door/4-door hatchback,6,6,7,12,4,5,9,6,3,6,4
+49,Toyota,422,Sequoia,15,Large utility,15,16,15,24,21,26,34,34,32,40,32
+49,Toyota,442,Sienna,20,Minivan,44,49,44,63,54,73,83,78,102,91,92
+49,Toyota,44,Solara,1,Convertible,33,23,15,29,21,23,32,29,22,33,39
+49,Toyota,39,Starlet,3,3-door/2-door hatchback,0,0,0,0,0,0,0,0,0,0,0
+49,Toyota,34,Supra,3,3-door/2-door hatchback,2,2,2,3,2,1,5,2,3,2,0
+49,Toyota,481,T-100,31,Standard pickup,8,10,8,8,12,6,13,9,7,6,14
+49,Toyota,472,Tacoma,30,Compact pickup,169,166,175,139,169,197,222,186,192,211,248
+49,Toyota,38,Tercel,2,"2-door sedan,hardtop,coupe",27,28,41,37,32,13,15,29,20,22,19
+49,Toyota,482,Tundra,31,Standard pickup,71,91,83,100,89,109,119,137,118,118,110
+49,Toyota,399,Unknown (automobile),1,Convertible,0,5,1,1,2,2,1,0,1,0,1
+49,Toyota,499,Unknown (light truck),14,Compact utility,1,5,4,0,3,6,0,1,0,1,0
+49,Toyota,999,Unknown (TOYOTA),49,Unknown light vehicle type,0,0,1,0,4,1,0,1,1,0,1
+49,Toyota,53,Venza,5,5-door/4-door hatchback,4,2,5,8,6,6,10,9,9,14,16
+49,Toyota,51,Yaris,3,3-door/2-door hatchback,43,34,42,51,36,57,50,49,56,76,50
+55,Hyundai,36,Accent,3,3-door/2-door hatchback,77,68,72,75,68,83,103,102,106,91,96
+55,Hyundai,39,"Azera  (For 2018 on, code as vehicle model 398)",4,"4-door sedan, hardtop",0,3,0,0,0,8,4,13,8,8,9
+55,Hyundai,35,Elantra,2,"2-door sedan,hardtop,coupe",103,118,126,142,138,168,188,212,258,251,268
+55,Hyundai,441,Entourage,20,Minivan,0,0,1,2,2,1,3,5,6,3,0
+55,Hyundai,40,Equus,4,"4-door sedan, hardtop",0,0,0,1,3,0,0,1,1,0,0
+55,Hyundai,32,Excel,3,3-door/2-door hatchback,4,2,3,8,1,2,2,0,0,2,0
+55,Hyundai,41,"Genesis (For 2009-2016 only. For model years 2017 on, see 55-043, 55-044 and 55-046)",2,"2-door sedan,hardtop,coupe",0,0,0,0,0,0,12,25,17,19,32
+55,Hyundai,46,Genesis (G70),4,"4-door sedan, hardtop",0,0,0,0,0,0,0,0,0,0,0
+55,Hyundai,43,Genesis (G80),4,"4-door sedan, hardtop",0,0,0,0,0,0,0,0,0,1,0
+55,Hyundai,44,Genesis (G90),4,"4-door sedan, hardtop",0,0,0,0,0,0,0,0,0,1,0
+55,Hyundai,45,Ioniq,5,5-door/4-door hatchback,0,0,0,0,0,0,0,0,1,3,1
+55,Hyundai,404,Kona,14,Compact utility,0,0,0,0,0,0,0,0,2,6,4
+55,Hyundai,405,Nexo,14,Compact utility,0,0,0,0,0,0,0,0,0,0,0
+55,Hyundai,398,Other (automobile),2,"2-door sedan,hardtop,coupe",0,1,1,2,0,0,0,0,0,0,0
+55,Hyundai,498,Other (light truck),14,Compact utility,0,0,0,0,0,0,0,0,0,0,0
+55,Hyundai,422,Palisade,15,Large utility,0,0,0,0,0,0,0,0,0,0,1
+55,Hyundai,31,Pony,2,"2-door sedan,hardtop,coupe",0,0,0,0,0,0,0,0,0,0,0
+55,Hyundai,401,Santa Fe,14,Compact utility,31,34,32,47,38,60,77,74,91,79,98
+55,Hyundai,34,Scoupe,2,"2-door sedan,hardtop,coupe",4,1,1,1,0,0,1,1,0,0,0
+55,Hyundai,33,Sonata,4,"4-door sedan, hardtop",69,80,87,98,136,137,159,197,186,172,200
+55,Hyundai,37,Tiburon,2,"2-door sedan,hardtop,coupe",29,28,30,33,24,32,18,23,17,4,24
+55,Hyundai,402,Tucson,14,Compact utility,5,3,16,12,8,22,19,37,34,37,46
+55,Hyundai,399,Unknown (automobile),2,"2-door sedan,hardtop,coupe",1,1,0,0,1,1,0,0,0,0,0
+55,Hyundai,999,Unknown (HYUNDAI),49,Unknown light vehicle type,0,0,0,0,0,0,1,0,1,0,0
+55,Hyundai,499,Unknown (light truck),14,Compact utility,0,0,0,0,0,0,0,0,0,0,0
+55,Hyundai,42,Veloster,3,3-door/2-door hatchback,0,0,2,4,3,9,10,22,13,20,16
+55,Hyundai,406,Venue,14,Compact utility,0,0,0,0,0,0,0,0,0,0,2
+55,Hyundai,421,Veracruz  (2008 on; see 403 for 2007 only),15,Large utility,0,0,0,0,0,2,3,1,3,1,3
+55,Hyundai,403,Veracruz (2007 only),14,Compact utility,0,0,1,0,1,0,3,3,0,1,1
+55,Hyundai,38,XG300(2001)/ XG350(2002 on),4,"4-door sedan, hardtop",0,0,0,0,0,0,0,0,0,0,1
+63,KIA,35,Amanti,4,"4-door sedan, hardtop",2,5,6,8,4,3,6,13,4,8,3
+63,KIA,421,Borrego,15,Large utility,2,0,1,2,1,1,5,1,2,0,0
+63,KIA,39,Cadenza,4,"4-door sedan, hardtop",0,0,0,0,0,0,0,3,2,3,6
+63,KIA,38,Forte,2,"2-door sedan,hardtop,coupe",3,13,20,28,25,32,67,81,78,84,120
+63,KIA,40,K900,4,"4-door sedan, hardtop",0,0,0,0,0,0,0,0,0,0,0
+63,KIA,403,Niro,14,Compact utility,0,0,0,0,0,0,0,0,0,0,4
+63,KIA,34,Optima,4,"4-door sedan, hardtop",40,42,54,47,57,83,106,104,116,104,154
+63,KIA,398,Other (automobile),2,"2-door sedan,hardtop,coupe",0,0,0,1,0,3,4,2,10,1,0
+63,KIA,498,Other (Light Truck),14,Compact utility,0,0,0,0,0,0,0,0,0,0,2
+63,KIA,32,Rio/Rio5,4,"4-door sedan, hardtop",51,47,55,39,42,68,65,67,58,50,52
+63,KIA,36,Rondo,6,Station Wagon,6,8,7,2,2,6,5,5,5,9,3
+63,KIA,441,Sedona,20,Minivan,31,20,26,32,25,30,41,24,22,30,27
+63,KIA,31,Sephia,4,"4-door sedan, hardtop",31,24,17,10,15,8,10,9,8,3,1
+63,KIA,402,Sorento,14,Compact utility,0,0,0,0,0,0,53,68,67,76,86
+63,KIA,37,Soul,6,Station Wagon,3,8,20,26,49,57,70,76,112,122,103
+63,KIA,33,Spectra/Spectra5,4,"4-door sedan, hardtop",57,50,65,57,55,49,69,65,45,47,38
+63,KIA,401,Sportage,14,Compact utility,34,45,43,32,24,36,44,45,65,34,60
+63,KIA,41,Stinger,5,5-door/4-door hatchback,0,0,0,0,0,0,0,0,0,1,5
+63,KIA,422,Telluride,15,Large utility,0,0,0,0,0,0,0,0,0,1,4
+63,KIA,399,Unknown (automobile),2,"2-door sedan,hardtop,coupe",0,0,0,1,0,1,1,0,0,0,0
+63,KIA,999,Unknown (KIA),49,Unknown light vehicle type,0,0,0,0,0,0,0,0,0,1,0
+63,KIA,499,Unknown (light truck),14,Compact utility,0,0,0,0,0,0,0,0,0,0,0
